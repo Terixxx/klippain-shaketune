@@ -1,7 +1,7 @@
 #!/bin/bash
 
-USER_CONFIG_PATH="${HOME}/printer_1_data/config"
-MOONRAKER_CONFIG="${HOME}/printer_1_data/config/moonraker.conf"
+USER_CONFIG_PATH="${HOME}/klipper_config/printer_1/"
+MOONRAKER_CONFIG="${HOME}klipper_config/printer_1/moonraker.conf"
 KLIPPER_PATH="${HOME}/klipper"
 
 K_SHAKETUNE_PATH="${HOME}/klippain_shaketune"
